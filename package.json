@@ -1,0 +1,11 @@
+{
+  "name": "ar-practice",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "3.5"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.0.10",
+    "webpack-dev-server": "^2.11.1"
+  }
+}
